@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+newproj
+db.sqlite3
+.DS_Store
